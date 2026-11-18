@@ -1,21 +1,55 @@
-MIT License
+Lemon Studio
+Copyright (C) 2026 ItsAlphaNeon and the Lemon Studio contributors
 
-Copyright (c) 2026 Er. Vikas Prajapati
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public
+License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later
+version.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You should have received a copy of the GNU General Public License along with this program. If not, see
+<https://www.gnu.org/licenses/gpl-3.0.txt>.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SUMMARY OF THE GNU GENERAL PUBLIC LICENSE, VERSION 3 (29 June 2007)
+
+This is a condensed summary, not the license text. Only the full text of the GPL, linked above, has legal effect.
+
+1. Freedom to use. You may run the program for any purpose, and the output of running it is not covered by the license
+   unless the output is itself a covered work.
+
+2. Freedom to study and change. You may study the source code and modify it. The source code is the preferred form of the
+   work for making modifications.
+
+3. Freedom to share. You may copy and distribute the program, with or without changes, for free or for a fee.
+
+4. Conditions when you distribute:
+   a) Keep the copyright notices, and the notices that the license and its warranty disclaimer apply, intact.
+   b) Give every recipient a copy of the license.
+   c) Provide the Corresponding Source: everything needed to generate, install and run the program and to modify it.
+   d) License the whole work, including your changes, under the GPL, and mark modified versions as changed, with a date.
+   e) Add no further restrictions on what recipients may do under the license.
+   f) For User Products (consumer devices), also provide the Installation Information needed to run modified versions.
+
+5. Patents. Each contributor grants a royalty-free patent license for their contribution. If you knowingly rely on a patent
+   license to convey the program, you must make the license available to everyone downstream.
+
+6. Anti-circumvention. No covered work is an effective technological protection measure under anti-circumvention laws.
+
+7. Termination. Violating the license ends your rights. They are reinstated if you stop violating it, and permanently if
+   the copyright holder does not notify you within 60 days of that, or if you cure a first-time violation within 30 days of
+   notice.
+
+8. Copies. You need not accept the license to receive or run a copy. Only the license gives permission to modify or
+   distribute, so doing either means you accept it.
+
+9. Downstream recipients receive a license from the original licensors automatically. You are not responsible for
+   enforcing compliance by third parties.
+
+10. Combination with AGPLv3. You may combine a covered work with a work under the GNU Affero General Public License,
+    version 3.
+
+11. No warranty, no liability. The program is provided "as is", without warranty of any kind, and no copyright holder or
+    distributor is liable for damages arising from its use or inability to use it, to the extent the law allows.
+
+Third-party components keep their authors' copyright and licenses. Their notices are in THIRD-PARTY-NOTICES.txt.
