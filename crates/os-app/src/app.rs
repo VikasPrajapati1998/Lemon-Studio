@@ -4313,6 +4313,8 @@ impl App {
         // lengths").
         crate::rack::follow_pattern(s);
         s.control.settle_tick(&mut s.project, s.piano.dirty);
+        // The project's own log, in its folder, follows the project that is open (`app_log`).
+        crate::app_log::follow_project(s.path.as_deref());
         self.control_tick();
         self.plugin_tick();
         // Playback loops over the time selection, as it is now (spec: ui/recording.md §5).

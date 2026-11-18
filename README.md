@@ -150,6 +150,22 @@ cargo run -p os-app --release
 The first run takes a while. It also builds Lemon Studio's plugins and installs them as VST3 and CLAP plugins for your
 other DAWs. A copy built from source never updates itself: to update it, run `git pull` and build it again.
 
+#### Smoke test
+
+To check that a build works, run the smoke test. It starts the built program without a window, renders a small project to
+a WAV file, and checks that the run's log file is written to `logs/YYYY-MM-DD/` in the user folder. It needs no audio
+device and leaves your own settings alone.
+
+```bash
+cargo test -p os-app --test integration smoke
+```
+
+The logger's own tests (the dated run log and the per-project log in the project's `logs/` folder) run separately:
+
+```bash
+cargo test -p os-app app_log
+```
+
 ### Learn to use it
 
 Start with the [getting started guide](https://getlemonstudio.app/wiki/getting-started/), or look something up in the
